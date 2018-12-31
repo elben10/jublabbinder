@@ -1,0 +1,5 @@
+channels:
+- QuantStack
+- conda-forge
+dependencies:
+- jupyterlab=0.34.0
